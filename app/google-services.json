@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471738853862",
+    "project_id": "quizfish-9a838",
+    "storage_bucket": "quizfish-9a838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471738853862:android:9439243049823a1ff34e27",
+        "android_client_info": {
+          "package_name": "com.moon.quizfish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471738853862-ker1p1556r171ek4nvasejb6gngbpv4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moon.quizfish",
+            "certificate_hash": "ab2e547f57cbb4215b27ee18d118f08d3779f506"
+          }
+        },
+        {
+          "client_id": "471738853862-sn9pj6u08omrmmgil69fgkf9ulr25jka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDVxVK61XryVcVxI-LUl6nWZPnhspptk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471738853862-sn9pj6u08omrmmgil69fgkf9ulr25jka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
